@@ -13,7 +13,7 @@
 **Installation**
   
 * Download the [rm3.conf](rm3.conf) and edit the configuration section
-* Download the [rm3_flow.json](rm3_flow.json) file, import it into Node-RED and edit RM 3 hostname settings
+* Download the [rm3_flow.json](rm3_flow.json) file, import it into Node-RED and edit RM 3 Mini hostname settings
 
 [OLA trigger documentation](https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
